@@ -8,11 +8,11 @@
 
 **What is your first and last name?**
 
-My name is: _____
+My name is: _steffen reyes____
 
 **What grade are you in?**
 
-I am in: _____ grade.
+I am in: _9____ grade.
 
 ---
 
@@ -20,11 +20,11 @@ I am in: _____ grade.
 
 **Have you used GitHub before this class? (Yes / No)**
 
-Answer: _____
+Answer: __no___
 
 **On a scale of 1–5, how comfortable are you with computers and technology? (1 = not at all, 5 = very comfortable)**
 
-Rating: _____
+Rating: ___4__
 
 ---
 
@@ -32,7 +32,7 @@ Rating: _____
 
 **In your own words, what does it mean to "clone" a repository?**
 
-Answer: _____
+Answer: ___to clone another tab__
 
 ---
 
@@ -40,7 +40,7 @@ Answer: _____
 
 **Describe the steps you followed to turn in this assignment. What did you do after editing this file?**
 
-Answer: _____
+Answer: ___what i did after is finish answering questions__
 
 ---
 
@@ -48,7 +48,7 @@ Answer: _____
 
 **Share one fun fact about yourself:**
 
-Fun fact: _____
+Fun fact: __I love dogs___
 
 ---
 
